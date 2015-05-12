@@ -1,0 +1,9 @@
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+D:\OPPVB.NETC#\SEIP\04-05-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UnivarsityManagementUI.resources
